@@ -1,2 +1,2 @@
-# Dise-o-Reto
+# Diseño-Reto
 Reto 4
